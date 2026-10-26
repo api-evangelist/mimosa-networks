@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mimosa Networks is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by nea) and added to the network as a stub for full-pipeline profiling.
-- https://mimosa.co/
+Mimosa Networks provides fixed wireless access solutions, delivering ultra‑reliable, high‑speed connectivity up to 3 Gbps for point‑to‑point and point‑to‑multipoint networks. Their product portfolio includes the 6 Series PTP and PTMP radios, antennas, accessories, and cloud‑based management, serving cable operators, multi‑family, public safety, and other sectors.
+
+**Areas:** Company · Fixed Wireless · Connectivity · Networking · Infrastructure
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mimosa.co/)
+- [Documentation](https://mimosa.co/support)
+- [Support](https://mimosa.co/support)
+- [Blog](https://mimosa.co/blog)
+- [Security](https://mimosa.co/legal/security)
+- [Terms of service](https://mimosa.co/legal/terms-use)
+- [Privacy policy](https://mimosa.co/legal)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/mimosa-networks/](https://apis.io/providers/mimosa-networks/).
