@@ -1,7 +1,6 @@
 aid: mimosa-networks
 name: Mimosa Networks
-description: 'Mimosa Networks is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio;
-  backed by nea) and added to the network as a stub for full-pipeline profiling.'
+description: 'Mimosa Networks provides fixed wireless access solutions, delivering ultra‑reliable, high‑speed connectivity up to 3 Gbps for point‑to‑point and point‑to‑multipoint networks. Their product portfolio includes the 6 Series PTP and PTMP radios, antennas, accessories, and cloud‑based management, serving cable operators, multi‑family, public safety, and other sectors.'
 url: https://raw.githubusercontent.com/api-evangelist/mimosa-networks/refs/heads/main/apis.yml
 x-type: company
 x-source: harvest:vc-portfolio
@@ -12,6 +11,10 @@ created: '2026-10-26'
 modified: '2026-10-26'
 tags:
 - Company
+- Fixed Wireless
+- Connectivity
+- Networking
+- Infrastructure
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +24,11 @@ maintainers:
 x-backed-by:
 - nea
 common:
+- type: DomainSecurity
+  url: security/mimosa-networks-domain-security.yml
 - type: Website
   url: https://mimosa.co/
+- type: Documentation
+  url: https://mimosa.co/support
+- type: Blog
+  url: https://mimosa.co/blog
